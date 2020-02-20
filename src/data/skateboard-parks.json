@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 5234,
+          "FACILITYID": 36001,
+          "NAME": "Lauren Wisemant (Skieur Élite Extrême) AKA (The Jolie Bichon) ",    
+          "DESCRIPTIO": "Skieur extrème et pièton qui n'utilise pas le troittoir qui borde la chaussé"      
+    
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-71.23357052831147, 46.805068961955286]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 5234,
+          "FACILITYID": 36001,
+          "NAME": "Alexandre Côté (Skieur Élite Extrême)",    
+          "DESCRIPTIO": "Jibbeur semi-po-pire, sous-bois en puissance, biêre occasionnelle"          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-71.22782810000001, 46.808294999999994]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 5232,
+          "FACILITYID": 36032,
+          "NAME": "Phil Wiseman AKA (Skieur Élite Extrême) AKA (The WildCat)",    
+          "DESCRIPTIO": "Leader du can Elite Extême, sous-bois extraordinaire, biêre et brousaille a l'occasion"          
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-71.24699097309752, 46.79363152494619]
+        }
+      }   
+      
+    ]
+  }
